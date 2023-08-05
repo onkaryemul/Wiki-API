@@ -4,6 +4,7 @@
 The WikiAPI project is a RESTful API that allows users to perform CRUD (Create, Read, Update, Delete) operations on articles. It serves as a basic backend for managing articles, where each article contains a title and content.
 
 ## Project Description:
+
 The wikiAPI project is a RESTful API that allows users to perform CRUD (Create, Read, Update, Delete) operations on a collection of articles. The API is built using Node.js, Express.js, and MongoDB with Mongoose as the ODM (Object-Document Mapping) library. It follows the principles of REST (Representational State Transfer) and provides endpoints to access and manipulate article data. Users can retrieve a list of all articles, access a specific article by its title, add new articles, update existing articles, and delete articles as needed.
 
 ## Features:
@@ -28,7 +29,7 @@ The wikiAPI project is a RESTful API that allows users to perform CRUD (Create, 
 - MongoDB 
 - Mongoose (Object-Document Mapping library)
 - Postman (API testing tool)
-- 
+  
 ## How to Run the Project
 
 1. Install Node.js and MongoDB on your system.
@@ -95,7 +96,7 @@ The wikiAPI project is a RESTful API that allows users to perform CRUD (Create, 
 - *Description*: Deletes an article by its title.
 - *Response*: A success message or an error message.
 
-### Contributors:
+## Contributors:
 
 - Onkar Yemul
 
