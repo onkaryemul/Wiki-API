@@ -18,7 +18,7 @@ The wikiAPI project is a RESTful API that allows users to perform CRUD (Create, 
 
 - Node.js: A JavaScript runtime that allows us to run server-side applications using JavaScript.
 - Express.js: A web application framework for Node.js that simplifies the process of building robust APIs.
-- MongoDBB: A NoSQL database that stores the articles as JSON-like documents.
+- MongoDB: A NoSQL database that stores the articles as JSON-like documents.
 - Mongoose (Object-Document Mapping library): A MongoDB object modeling tool that provides a schema-based solution to interact with the MongoDB database.
 - Postman (API testing tool): An API testing tool that allows users to test API endpoints by sending HTTP requests and receiving responses.
 
@@ -96,7 +96,7 @@ The wikiAPI project is a RESTful API that allows users to perform CRUD (Create, 
 
 ### Contributors:
 
-- Onkar
+- Onkar Yemul
 
 ---
 For more details about the code implementation and routes, refer to the `app.js` file.
